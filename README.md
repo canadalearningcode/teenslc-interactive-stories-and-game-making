@@ -6,12 +6,12 @@ In 2019, we want to challenge Canadians to pause and think, learn about, share, 
 
 See slide 6 for suggestions on how learners can incorporate this month’s theme into their projects.
 
-# Ladies Learning Code
+# Teens Learning Code
 # Interactive Stories and Gamemaking with HTML &amp; CSS
 
 ## Quick Links
 
-Preview Slides: https://ladieslearningcode.github.io/llc-interactive-stories-and-game-making/slides.html#slide1
+Preview Slides: https://ladieslearningcode.github.io/teenslc-interactive-stories-and-game-making/slides.html#slide1
 
 ## Attributions
 Content created by Nat Cooper for Canada Learning Code.
