@@ -41,7 +41,7 @@ Obtenez plus d'informations sur les thèmes mensuels en [cliquant ici](https://w
 
 Consultez la diapositive n° 6 pour obtenir des suggestions pour intégrer le thème aux projets des apprenants.
 
-# Ladies Learning Code
+# Teens Learning Code
 # Histoires interactives et conception de jeu en HTML et en CSS
 
 ## Liens rapides
